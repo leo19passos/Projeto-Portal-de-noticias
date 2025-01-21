@@ -14,6 +14,9 @@
 .gap-16 {
   gap: 16px;
 }
+.gap-32 {
+  gap: 32px;
+}
 main {
   margin: 40px;
   gap: 80px;   
