@@ -92,7 +92,7 @@ section header {
 #ai {
   grid-area: ai;
 
-  imag {
+  img {
     width: 176px;
     aspect-ratio: 1/1;
     object-fit: cover;
@@ -112,7 +112,7 @@ aside {
 
   }
 
-  imag {
+  img {
     width: 72px;
     aspect-ratio: 1/1;
     object-fit: cover;
