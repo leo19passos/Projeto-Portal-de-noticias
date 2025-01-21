@@ -16,6 +16,8 @@
 }
 main {
   margin: 40px;
+  gap: 80px;   
+
 }
 .text-2xl {
   font: var(--h1);
